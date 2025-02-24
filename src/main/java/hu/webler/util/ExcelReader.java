@@ -71,6 +71,8 @@ public class ExcelReader {
         return directoryPath;
     }
 
+    // https://www.geeksforgeeks.org/files-class-writestring-method-in-java-with-examples/
+    // https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html
     private static void writeContentToTxtFile(String content, Path path) throws IOException {
         Files.writeString(path, content, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
