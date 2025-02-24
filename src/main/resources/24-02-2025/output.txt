@@ -1,0 +1,8 @@
+Name	Course	Level	Start date	Type	Score	
+Babik Gábor	Java	beginner	01-szept.-2023	in person	150.0	
+Tóth Tamás	Python	advanced	01-ápr.-2023	online	600.0	
+Bényász Levente	C#	intermediate	01-jún.-2023	in person	350.0	
+Mihók Ádám	C++	advanced	01-ápr.-2023	online	650.0	
+Juhász Martin	Java	beginner	01-szept.-2023	online	200.0	
+Szabó Dénes Benjamin	TypeScript	beginner	01-szept.-2023	in person	150.0	
+Villany Leó	JavaScript	intermediate	16-jún.-2023	in person	400.0	
